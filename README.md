@@ -2,7 +2,7 @@
 
 ![portifolio](https://user-images.githubusercontent.com/53496180/98293803-ae4c0700-1f8d-11eb-9433-907e51ebd12c.gif)
 
-warning É necessário ter o React.js e o Node.js instalados;
+!! É necessário ter o React.js e o Node.js instalados; !!
 
 * abra o trminal dentro da pasta
 * digite yarn start para iniciar a aplicação
