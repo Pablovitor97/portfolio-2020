@@ -1,0 +1,23 @@
+logo apos a construção da nav bar:
+fui na pasta do arquivo pelo terminal,
+nele executei os seguintes comandos:
+
+ dir (para saber dos pacotes)
+ npm i react-router-dom (baixar algumas coisas)..
+ 
+ e fui olhar no package.json.. o "react-router-dom" estava la
+
+para iniciar o projeto, vá para a pasta dev+portifolios-tarter, abra o terminal
+e digite yarn start, mas voce deve possuir o pacote yarn e o react instalados.
+
+=====
+App.js :
+
+As opçoes "Sobre, Resumo e projetos", n estavam
+funcioando direito.. usei Route para a URL os encontrar
+e 
+<Route>
+    <Redirect to="/" /> 
+</Route>
+ para a URL funcionar corretamente ( os import se faziam sozinho)
+ 
