@@ -2,11 +2,10 @@
 
 ![portifolio](https://user-images.githubusercontent.com/53496180/98293803-ae4c0700-1f8d-11eb-9433-907e51ebd12c.gif)
 
-Information
+warning É necessário ter o React.js e o Node.js instalados;
 
-caso voce queira baixar e montar da sua forma:
-para iniciar o projeto abra o no terminal
-e digite yarn start para iniciar a aplicação, mas voce deve possuir o pacote yarn, react, node instalados.
+* abra o trminal dentro da pasta
+* digite yarn start para iniciar a aplicação
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
